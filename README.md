@@ -1,10 +1,11 @@
-Morphe Builds (Recommended)
-
+# Anddea Magisk,Ksu and Apatch Module
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mandyfinds)
 
-Morphe is a variant of the Revanced Original focused on maintaining ad removal features while adding greater support for current versions of YouTube and YouTube Music.
+Anddea Builds
 
-Get the [latest Morphe release](https://github.com/mandyoquinha-hash/Morphe-Builds-Stable/releases/tag/20260363).
+Anddea is a variant of the Revanced Extended.
+
+Get the [latest Anddea release](https://github.com/mandyoquinha-hash/Anddea_Builds-Recommended-Root/releases/20260701).
 
 ## If you are having trouble with the classic mount method of the modules
 such as,
