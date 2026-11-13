@@ -5,7 +5,7 @@ Anddea Builds
 
 Anddea is a variant of the Revanced Extended.
 
-Get the [latest Anddea release](https://github.com/mandyoquinha-hash/Anddea_Builds-Recommended-Root/releases/20260754)
+Get the [latest Anddea release](https://github.com/mandyoquinha-hash/Anddea_Builds-Recommended-Root/releases/20260756)
 
 ## If you are having trouble with the classic mount method of the modules
 such as,
